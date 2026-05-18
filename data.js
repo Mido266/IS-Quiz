@@ -180,7 +180,7 @@ const quizData = [
             {
                 "question": "Knowledge helps to make decisions or judgments based on wisdom and experience.",
                 "options": ["False", "True"],
-                "answer": "True"
+                "answer": "False"
             },
             {
                 "question": "MIS designed to streamline, store, and processes data.",
