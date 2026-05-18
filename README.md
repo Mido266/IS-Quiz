@@ -5,7 +5,7 @@ A lightweight, interactive quiz web application built from scratch using vanilla
 ## 🚀 Live Demo
 
 The project is live and can be accessed here:
-👉 **[Launch IS-Quiz (Live Site)](https://Mido266.github.io/IS-Quiz/)** ## Features
+👉 **[Launch IS-Quiz (Live Site)](https://Mido266.github.io/IS-Quiz/)**
 
 * **Dynamic Data Rendering:** Loads categories, questions, options, and correct answers dynamically from a separated `data.js` file.
 * **Clean UI/UX:** Minimalist interface featuring a custom mouse-tracking glow effect on category cards.
